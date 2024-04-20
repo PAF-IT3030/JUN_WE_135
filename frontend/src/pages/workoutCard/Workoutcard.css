@@ -1,0 +1,36 @@
+.Workoutcard .firstRow img{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+}
+.Workoutcard .firstRow{
+    display: flex;
+    align-items: center;
+    
+}
+
+.Workoutcard{
+    /* border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 10px;  */
+    /* padding: 50px; */
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+   display: flex;
+   flex-direction: column;
+}
+
+.Workoutcard .firstRow .userDetails{
+    margin-left: 60px;
+
+}
+
+.Workoutcard .thirdRow{
+    display: flex;
+    gap: 40px;
+    margin-top: 10px;
+}
+
+.Workoutcard .secondRow img{
+    border-radius: 10px;
+}
