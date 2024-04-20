@@ -1,0 +1,80 @@
+.Updateworkout h1{
+    text-align: center;
+}
+
+.Updateworkout .input-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.Updateworkout .file-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.Updateworkout .img-upload{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.Updateworkout input{
+    width: 600px;
+    height: 60px;
+}
+
+.Updateworkout .uploadBtn button{
+  background-color: white;
+  border: 1px solid #34c800;
+  color: #34c800;
+  font-weight: 600;
+  height: 80px;
+  width: 130px;
+  cursor: pointer;
+}
+
+.Updateworkout .submitBtn button{
+  background-color: #1E0443;
+  color: white;
+  font-weight: 500;
+  height: 50px;
+  width: 600px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Updateworkout .file-section {
+  border: 0.2px solid rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 8px;
+  width: 350px;
+}
+
+.Updateworkout .form-section{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 500px;
+}
+
+.form-section .AddDelete img {
+    height: 90px;
+    width: 140px;
+}
+
+.form-section .AddDelete button{
+  background-color: white;
+  color: #e50000;
+  font-weight: 500;
+  border: none;
+}
+
+.form-section .AddDelete{
+    display: flex;
+    gap: 300px;
+    border: 0.2px solid rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    width: 570px;
+}
