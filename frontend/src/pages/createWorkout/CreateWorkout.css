@@ -1,0 +1,62 @@
+.CreateWorkout h1{
+    text-align: center;
+}
+
+.CreateWorkout .input-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.CreateWorkout .file-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.CreateWorkout .img-upload{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.CreateWorkout input{
+    width: 600px;
+    height: 60px;
+}
+
+.CreateWorkout .uploadBtn button{
+  background-color: white;
+  border: 1px solid #34c800;
+  color: #34c800;
+  font-weight: 600;
+  height: 80px;
+  width: 130px;
+  cursor: pointer;
+}
+
+.CreateWorkout .submitBtn button{
+  background-color: #1E0443;
+  color: white;
+  font-weight: 500;
+  height: 50px;
+  width: 600px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.CreateWorkout .file-section {
+  border: 0.2px solid rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 8px;
+  width: 350px;
+}
+
+.CreateWorkout .form-section{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 500px;
+}
+
+
