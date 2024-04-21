@@ -16,7 +16,7 @@ function Home() {
 
         <Workoutcard/>
         <Workoutcard/>
-        <Workoutcard/>
+        <Workoutcard/>       
         
       </div>
     </div>
