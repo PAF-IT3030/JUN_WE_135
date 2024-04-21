@@ -1,0 +1,31 @@
+.EditComment h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.EditComment .input-section{
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    gap: 20px;
+}
+
+.EditComment .input-section input{
+    width: 500px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.EditComment .submitBtn button{
+    background-color: #1E0443;
+    color: white;
+    font-weight: 500;
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 600px;
+    margin-top: 70px;
+  }
+  
