@@ -1,0 +1,26 @@
+.Notification h1{
+    margin-left: 50px;
+}
+
+.Notification .firNotification p{
+    height: 20px;
+    width: 40px;
+    margin-left: 70px;
+    font-size: 20px;
+    
+}
+
+.Notification .firpic img{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    margin-left: 50px;
+}
+
+.Notification .firpic{
+    display: flex;
+    gap: 50px;
+    
+}
+
+
