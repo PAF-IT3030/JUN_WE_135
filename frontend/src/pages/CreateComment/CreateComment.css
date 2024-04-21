@@ -1,0 +1,28 @@
+.Home .HeadSection{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.Home .HeadSection img{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+
+.Home .HeadSection p{
+    font-size: 30px;
+    
+}
+
+.Home .HeadSection button{
+    background-color: #1E0443;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
