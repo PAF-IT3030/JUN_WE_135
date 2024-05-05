@@ -15,7 +15,19 @@ function AddWorkout() {
           <input type='date' placeholder='Date' required/>
           <label>Age </label>
           <input type='text' placeholder='age' required/>
-        </div>
+          <label>Routines </label>
+          <input type='text' placeholder='Add your daily routines'/>
+          <label>Exercise </label>
+          <div className='subtBtn'>
+          <button type='submit'>ADD EXERCISE</button>    
+          </div>  
+
+          <div className='addworkBtn'>
+          <button type='submit'>ADD WORKOUT PLAN</button>    
+          </div>  
+
+
+          </div>
         
         
           
