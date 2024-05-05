@@ -1,0 +1,13 @@
+.CreateMeal h1{
+    text-align: center;
+}
+
+.input-section{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 500px;
+    height: 20px;
+}
