@@ -7,4 +7,4 @@
 
 #### Brief Description of your Solution - 
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id
+The project aims to develop a social media platform tailored for fitness enthusiasts, The platform allows users to share fitness journey, workouts, and healthy lifestyle tips through media posts, workout status updates, workout plan sharing, and meal plan sharing. Key features include media uploads, workout and meal plan sharing, user interactions (likes, comments), profile management, notifications, and integration with existing social media logins. 
