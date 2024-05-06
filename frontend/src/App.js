@@ -7,6 +7,8 @@ import ViewComment from "./pages/ViewComment/ViewComment";
 import Notification from "./pages/Notification/Notification";
 import EditComment from "./pages/EditComment/EditComment";
 import AddPost from "./pages/AddPost/AddPost";
+import UpdatePost from "./pages/UpdatePost/UpdatePost";
+
 
 
 function App() {
@@ -21,6 +23,7 @@ function App() {
       <Route path="/Notification" element={<Notification/>}/>
       <Route path="/EditComment" element={<EditComment/>}/>
       <Route path="/AddPost" element={<AddPost/>}/>
+      <Route path="/UpdatePost" element={<UpdatePost/>}/>
       </Routes> 
     </div>
   );
