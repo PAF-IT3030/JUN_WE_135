@@ -1,30 +1,30 @@
-.Updateworkout h1{
+.Updatepost h1{
     text-align: center;
 }
 
-.Updateworkout .input-section {
+.Updatepost .input-section {
     display: flex;
     flex-direction: column;
 }
 
-.Updateworkout .file-section {
+.Updatepost .file-section {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.Updateworkout .img-upload{
+.Updatepost .img-upload{
     display: flex;
     gap: 40px;
     align-items: center;
 }
 
-.Updateworkout input{
+.Updatepost input{
     width: 600px;
     height: 60px;
 }
 
-.Updateworkout .uploadBtn button{
+.Updatepost .uploadBtn button{
     background-color: white;
     border: 1px solid #34c800;
     color: #34c800;
@@ -34,7 +34,7 @@
     cursor: pointer;
 }
   
-.Updateworkout .submitBtn button{
+.Updatepost .submitBtn button{
     background-color: #1E0443;
     color: white;
     font-weight: 500;
@@ -45,14 +45,14 @@
     cursor: pointer;
 }
   
-.Updateworkout .file-section {
+.Updatepost .file-section {
     border: 0.2px solid rgba(0, 0, 0, 0.5);
     padding: 15px;
     border-radius: 8px;
     width: 350px;
 }
 
-.Updateworkout .form-section{
+.Updatepost .form-section{
     display: flex;
     flex-direction: column;
     gap: 20px;
