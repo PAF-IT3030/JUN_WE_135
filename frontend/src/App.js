@@ -6,6 +6,7 @@ import CreateComment from "./pages/CreateComment/CreateComment";
 import ViewComment from "./pages/ViewComment/ViewComment";
 import Notification from "./pages/Notification/Notification";
 import EditComment from "./pages/EditComment/EditComment";
+import AddPost from "./pages/AddPost/AddPost";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Route path="/ViewComment" element={<ViewComment/>}/>
       <Route path="/Notification" element={<Notification/>}/>
       <Route path="/EditComment" element={<EditComment/>}/>
+      <Route path="/AddPost" element={<AddPost/>}/>
       </Routes> 
     </div>
   );
