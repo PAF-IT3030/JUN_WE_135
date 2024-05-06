@@ -1,30 +1,30 @@
-.Updatepost h1{
+.UpdatePost h1{
     text-align: center;
 }
 
-.Updatepost .input-section {
+.UpdatePost .input-section {
     display: flex;
     flex-direction: column;
 }
 
-.Updatepost .file-section {
+.UpdatePost .file-section {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.Updatepost .img-upload{
+.UpdatePost .img-upload{
     display: flex;
     gap: 40px;
     align-items: center;
 }
 
-.Updatepost input{
+.UpdatePost input{
     width: 600px;
     height: 60px;
 }
 
-.Updatepost .uploadBtn button{
+.UpdatePost .uploadBtn button{
     background-color: white;
     border: 1px solid #34c800;
     color: #34c800;
@@ -34,7 +34,7 @@
     cursor: pointer;
 }
   
-.Updatepost .submitBtn button{
+.UpdatePost .submitBtn button{
     background-color: #1E0443;
     color: white;
     font-weight: 500;
@@ -45,14 +45,14 @@
     cursor: pointer;
 }
   
-.Updatepost .file-section {
+.UpdatePost .file-section {
     border: 0.2px solid rgba(0, 0, 0, 0.5);
     padding: 15px;
     border-radius: 8px;
     width: 350px;
 }
 
-.Updatepost .form-section{
+.UpdatePost .form-section{
     display: flex;
     flex-direction: column;
     gap: 20px;
