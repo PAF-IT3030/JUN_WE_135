@@ -1,9 +1,9 @@
 # Team Name - FRing
 # Project Group - JUN_WE_135
 ### Group Leader - IT21306136 - Sathkumara S.M.P.U.
-### Member 2 -
-### Member 3 - 
-### Member 4 - 
+### Member 2 - IT21309274 - Ramsith K.V.A.M
+### Member 3 - IT21216732 - Weerathunga W.A.R.N.
+### Member 4 - IT21231278 - Kavindya N.D.D.
 
 #### Brief Description of your Solution - 
 
