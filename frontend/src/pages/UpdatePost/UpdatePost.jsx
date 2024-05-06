@@ -1,10 +1,10 @@
 import React from 'react'
-import './Updatepost.css'
+import './UpdatePost.css'
 import workoutimage from '../../images/workoutimage.jpeg'
 
-function Updatepost() {
+function UpdatePost() {
   return (
-    <div className='Updatepost'>
+    <div className='UpdatePost'>
         <h1>Edit Post</h1>
       <form className='form-section'>
         <div className='input-section'>
@@ -37,4 +37,4 @@ function Updatepost() {
   )
 }
 
-export default Updateworkout
+export default UpdatePost
