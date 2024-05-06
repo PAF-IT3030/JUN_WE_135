@@ -1,0 +1,60 @@
+.AddPost h1{
+    text-align: center;
+}
+
+.AddPost .input-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.AddPost .file-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.AddPost .img-upload{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.AddPost input{
+    width: 600px;
+    height: 60px;
+}
+
+.AddPost .uploadBtn button{
+    background-color: white;
+    border: 1px solid #34c800;
+    color: #34c800;
+    font-weight: 600;
+    height: 80px;
+    width: 130px;
+    cursor: pointer;
+}
+  
+.AddPost .submitBtn button{
+    background-color: #1E0443;
+    color: white;
+    font-weight: 500;
+    height: 50px;
+    width: 600px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+.AddPost .file-section {
+    border: 0.2px solid rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 8px;
+    width: 350px;
+}
+
+.AddPost .form-section{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 500px;
+}
