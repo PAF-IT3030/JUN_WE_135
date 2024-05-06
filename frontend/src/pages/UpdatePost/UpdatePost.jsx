@@ -1,15 +1,15 @@
 import React from 'react'
-import './Updateworkout.css'
+import './Updatepost.css'
 import workoutimage from '../../images/workoutimage.jpeg'
 
-function Updateworkout() {
+function Updatepost() {
   return (
-    <div className='Updateworkout'>
-        <h1>Edit Workout</h1>
+    <div className='Updatepost'>
+        <h1>Edit Post</h1>
       <form className='form-section'>
         <div className='input-section'>
-          <label>Workout </label>
-          <input type='text' placeholder='Workout Name' required/>
+          <label>Post </label>
+          <input type='text' placeholder='Post Name' required/>
         </div>
         <div className='img-upload'>
         
@@ -28,7 +28,7 @@ function Updateworkout() {
         </div>
 
         <div className='submitBtn'>
-          <button type='submit'>Update Workout</button>
+          <button type='submit'>Update Post</button>
 
         </div>
 
