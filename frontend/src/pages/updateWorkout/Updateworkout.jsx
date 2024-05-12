@@ -1,10 +1,11 @@
 import React from 'react'
-import './CreateWorkout.css'
+import './Updateworkout.css'
+import workoutimage from '../../images/workoutimage.jpeg'
 
-function CreateWorkout() {
+function Updateworkout() {
   return (
-    <div className='CreateWorkout'>
-      <h1>Create New Workout</h1>
+    <div className='Updateworkout'>
+        <h1>Edit Workout</h1>
       <form className='form-section'>
         <div className='input-section'>
           <label>Workout </label>
@@ -21,8 +22,14 @@ function CreateWorkout() {
           </div>
         </div>
 
+        <div className='AddDelete'>
+            <img src={workoutimage}/>
+            <button type='button'>Delete</button>
+        </div>
+
         <div className='submitBtn'>
-          <button type='submit'>Share Workout</button>
+          <button type='submit'>Update Workout</button>
+
         </div>
 
       </form>
@@ -30,4 +37,4 @@ function CreateWorkout() {
   )
 }
 
-export default CreateWorkout
+export default Updateworkout
