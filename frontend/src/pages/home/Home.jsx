@@ -3,6 +3,7 @@ import Workoutcard from '../workoutCard/Workoutcard'
 import profileimage from '../../images/profileimage.jpg'
 import './Home.css'
 
+
 function Home() {
   return (
     <div className='Home'>
